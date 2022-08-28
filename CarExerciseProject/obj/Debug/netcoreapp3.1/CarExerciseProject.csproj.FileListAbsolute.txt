@@ -1,0 +1,14 @@
+D:\Repos\CarExercise\CarExerciseProject\bin\Debug\netcoreapp3.1\CarExerciseProject.exe
+D:\Repos\CarExercise\CarExerciseProject\bin\Debug\netcoreapp3.1\CarExerciseProject.deps.json
+D:\Repos\CarExercise\CarExerciseProject\bin\Debug\netcoreapp3.1\CarExerciseProject.runtimeconfig.json
+D:\Repos\CarExercise\CarExerciseProject\bin\Debug\netcoreapp3.1\CarExerciseProject.runtimeconfig.dev.json
+D:\Repos\CarExercise\CarExerciseProject\bin\Debug\netcoreapp3.1\CarExerciseProject.dll
+D:\Repos\CarExercise\CarExerciseProject\bin\Debug\netcoreapp3.1\CarExerciseProject.pdb
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.csproj.AssemblyReference.cache
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.AssemblyInfoInputs.cache
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.AssemblyInfo.cs
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.csproj.CoreCompileInputs.cache
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.dll
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.pdb
+D:\Repos\CarExercise\CarExerciseProject\obj\Debug\netcoreapp3.1\CarExerciseProject.genruntimeconfig.cache
